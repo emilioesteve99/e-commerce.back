@@ -10,7 +10,6 @@ import { ProductModule } from '@Product/module/Product.module';
     CategoryModule,
     ProductModule
   ],
-  controllers: [],
   providers: [],
 })
 export class AppModule { }
