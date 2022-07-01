@@ -27,6 +27,12 @@
       "@Customer/*": [
         "modules/Customer/*"
       ],
+      "@Category/*": [
+        "modules/Category/*"
+      ],
+      "@Product/*": [
+        "modules/Product/*"
+      ],
     }
   },
   "exclude": [
